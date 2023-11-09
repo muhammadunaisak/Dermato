@@ -1,0 +1,32 @@
+{% extends 'Manageschedule.html' %}
+{% block body %}
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>Untitled Document</title>
+</head>
+
+<body>
+<form id="form1" name="form1" method="post" action="updateschedule">
+  <table class="table table-dark" width="200" border="1">
+    <tr>
+      <th scope="col">FROM</th>
+       <td><label>
+        <input type="text" name="textfield" value="{{ i['from_time'] }}" />
+      </label></td>
+    </tr>
+    <tr>
+      <th scope="col">TO</th>
+      <td><label>
+        <input type="text" name="textfield2"  value="{{ i['to_time'] }}"/>
+      </label></td>
+    </tr>
+    <tr>
+      <th rowspan="2" scope="col"><label>
+        <input type="submit" name="Submit" value="SAVE" />
+      </label></th>
+    </tr>
+
+  </table>
+</form>
+</body>
+{% endblock %}

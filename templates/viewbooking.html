@@ -1,0 +1,38 @@
+{% extends 'docindex.html' %}
+{% block body %}
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>Untitled Document</title>
+</head>
+
+<body>
+<form id="form1" name="form1" method="post" action="">
+  <table class="table" width="200" border="0">
+    <tr>
+      <th scope="col"><font color="cda45e">user name </font></th>
+      <th scope="col"><font color="cda45e">schedule</font></th>
+      <th scope="col"><font color="cda45e">date</font></th>
+      <th></th>
+
+    </tr>
+     {% for i in val %}
+    <tr>
+      <td><font color="white">{{i['fname']}}{{i['lname']}}</font></td>
+      <td><font color="white">Date{{i['date']}}<br>
+        From time{{i['from_time']}}<br>To time{{i['to_time']}}</font></td>
+      <td>&nbsp;<font color="white">{{i['bdate']}}</font></td>
+
+      <td>
+        {% if i['status']=="pending" %}
+      <a href="accept?id={{i['bid']}}"><font color="white">accept</font></a><br>
+        <a href="reject?id={{i['bid']}}"><font color="white">reject</font></a>{% elif i['status']=="accepted" %} <font color="white">Accepted</font> {% else %} <font color="white">Rejected </font>  {% endif %}
+      </td>
+
+    </tr>
+     {% endfor %}
+  </table>
+</form>
+</body>
+
+
+{% endblock %}

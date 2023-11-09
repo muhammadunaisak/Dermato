@@ -1,0 +1,29 @@
+<!--<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">-->
+<!--<html xmlns="http://www.w3.org/1999/xhtml">-->
+{% extends 'adminindex.html' %}
+{% block body %}
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>Untitled Document</title>
+</head>
+
+<body>
+<form id="form1" name="form1" method="post" action="">
+  <table width="200" border="1" class="table" bgcolor="#f29e9b">
+    <tr>
+      <th scope="col">Doctor Name </th>
+      <th scope="col"> Rating</th>
+      <th scope="col">Review</th>
+    </tr>
+   {% for i in val %}
+    <tr>
+      <td>&nbsp;{{i['fname']}} {{i['lname']}}</td>
+      <td>{{i['rate']}}</td>
+      <td>&nbsp;{{i['review']}}</td>
+    </tr>
+     {% endfor %}
+  </table>
+</form>
+</body>
+<!--</html>-->
+{% endblock %}

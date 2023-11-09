@@ -1,0 +1,36 @@
+{% extends 'docindex.html' %}
+{% block body %}
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>Untitled Document</title>
+</head>
+
+<body>
+<form id="form1" name="form1" method="post" action="fromto">
+  <label></label>
+  <table class="table table-dark" width="200" border="1">
+    <tr>
+      <td>From time </td>
+      <td>To time </td>
+      <td>Date</td>
+      <td>&nbsp;</td>
+    </tr>
+    {% for i in val %}
+    <tr>
+      <td>{{i['from_time']}}</td>
+      <td>&nbsp;{{i['to_time']}}</td>
+      <td>{{i['date']}}</td>
+      <td><p><a href="edit_sche?id={{i['sid']}}">Edit</a></p>
+          <p><a href="delsche?id={{i['sid']}}">Delete</a></p></td>
+    </tr>
+    {% endfor%}
+    <tr>
+	<center>
+      <td colspan="4"><input type="submit" value="add" /></td>
+	</center>
+    </tr>
+  </table>
+</form>
+</body>
+{% endblock %}
+
