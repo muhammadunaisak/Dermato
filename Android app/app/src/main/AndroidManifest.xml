@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.dermato">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@drawable/skinlogo"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Dermato"
+        android:usesCleartextTraffic="true"
+        tools:targetApi="31">
+        <activity
+            android:name=".chatdoctor"
+            android:exported="false" />
+        <activity
+            android:name=".custom3"
+            android:exported="false" />
+        <activity
+            android:name=".costum3"
+            android:exported="false" />
+        <activity
+            android:name=".custom5"
+            android:exported="false" />
+        <activity
+            android:name=".viewprofile"
+            android:exported="false" />
+        <activity
+            android:name=".hompg"
+            android:exported="false" />
+        <activity
+            android:name=".senddocrating"
+            android:exported="false" />
+        <activity
+            android:name=".sendfeedback"
+            android:exported="false" />
+        <activity
+            android:name=".Viewbooking"
+            android:exported="false" />
+        <activity
+            android:name=".Viewschedule"
+            android:exported="false" />
+        <activity
+            android:name=".Test"
+            android:exported="false" />
+        <activity
+            android:name=".viewdoctor"
+            android:exported="false" />
+        <activity
+            android:name=".signup"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity2login"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
