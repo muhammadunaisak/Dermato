@@ -7,7 +7,7 @@
   <h3 align="center">Dermato</h3>
 
   <p align="center">
-    diagnose skin and make appointment for Dermatologists
+    Diagnose skin image classification and make appointment for Dermatologists.
     <br/>
     <br/>
     <a href="https://github.com/muhammadunaisak/Dermato"><strong>Explore the docs »</strong></a>
@@ -32,10 +32,14 @@
 * [Acknowledgements](#acknowledgements)
 
 ## About The Project
-
-#Screen Shot
+![image](https://github.com/muhammadunaisak/Dermato/assets/84447232/4bf5433d-64ba-413e-a6a6-994ea61a761d)
+#Screen Shot Home page Web.
 ![image](https://github.com/muhammadunaisak/Dermato/assets/84447232/e2288d81-c609-469a-808c-10c2277bab03)
+![image](https://github.com/muhammadunaisak/Dermato/assets/84447232/a3da5a0b-cc34-4662-9efa-d111a01f42e2)
 
+#Screen Shot Home page App.
+
+![image](https://github.com/muhammadunaisak/Dermato/assets/84447232/e0963292-670f-4f01-bb2f-592e40009701)
                                            
 
 
@@ -75,5 +79,5 @@ Contributions are what make the open source community such an amazing place to b
 
 ## Techs Used Here
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,java,bootstrap,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,java,bootstrap,)](https://skillicons.dev)
 
