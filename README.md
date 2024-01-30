@@ -1,9 +1,9 @@
 <br/>
 <p align="center">
   <a href="https://github.com/muhammadunaisak/Dermato">
-    <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJUAAACUCAMAAACtIJvYAAAAZlBMVEX///8AAAC9vb04ODjx8fGDg4NJSUnj4+Pt7e3T09OYmJg0NDQhISHe3t7W1tZcXFytra3Ly8uhoaGJiYnFxcUZGRltbW12dnYtLS34+Pi0tLSRkZFhYWEoKChmZmZSUlILCwtAQECjMHMWAAAC/ElEQVR4nO3b2Y6jMBAFUJtAQ4BAAgTI0ln+/ycn3dJI83IdqFywpan73A9HjrtcXjBGo9FoNBqNRqPRaP6zpAlM+0qeN825q7KVVZGdkGM5Fre8S7NTSKq/KYa8WwU2S/U7bvd9urhstuon/X5hl0j1SrsLUWVtUoWosnZYbLw+UdlyH6LK2s0y9fVDlS2jEFXWXoJU2T5Ilb0GqeKPFkVlkyBVlly4oOq7LMvjdBa3zCNVke5eqbaHZiinqO7xGqrNP39z6tqvtyzq1JqieiU+3N+xmL/hRNUr25tbdSN2gtNVxpzdrIMflUlrl+rpSWXifp3BmqcyxsUavKky1/9i6ktlUocq96Yye6wa/alOV8zaelOZA1axfkKByuAJz6rvEhUerAfpv1CiivFgkQqpRGUuUEXaholUFVSR1kKRyjyQqvSpgqvhkTPdZSrcaXGOHWSqHVQ1HlVpgVSc6i5TxbAp5Wx1ZCozIBVnzRGqWqTi7FaFqhypCsqRpFAFW79vnyp8lEMpo0IVbmZ8qrZBqnBxV5Wq5KowZ3uYlaELUhXmigNX56fPngF2MrVPFez6eo9dH97TczbPwt3EiFQ+dxO4iJ49qmBheHBO+2QqOK1KzrGaTIVQrPNakQqvN6T7OJEK1lDb+VNlsC6wbickKnwPcPV4hvwNVR7P2x1XJv7uJmJ4duXzHge2C6yDPokK1yrazcR8VQUPtZlPGmaq8IGo5c31uarKhappqHmqg/M5D2+o5qhivPz9pOWhZqiiNy94mG80J6qyaOM2cd+FTVHF58Q1y39TU19xw1dhWZqmu6rqmn7Kq7Aj9VEYPgwuxnGc/oKOs7V5r5oV9itpior3bIeo4r9EJqjoI8VQ0ZoqpmoJ1Keqgrgk01RXWvfJU23ItZOiGpb7Uk6sWtAkVvWLflAlUtUNt0P4XPUoL9XynxDOUj2TZtlfbp7qcSyfbbRb7fPU3RfOva5vQ3LJm2j1z2VjV06ntb6P1Wg0Go1Go9FoNBoNLX8AJnEr0d6NxfMAAAAASUVORK5CYII=" alt="Logo" width="80" height="80">
+     ![image](https://github.com/muhammadunaisak/Dermato/assets/84447232/7fa1a330-34cb-4b3a-9895-f24a57c17798)
   </a>
-
+![image](https://github.com/muhammadunaisak/Dermato/assets/84447232/7fa1a330-34cb-4b3a-9895-f24a57c17798)
   <h3 align="center">Dermato</h3>
 
   <p align="center">
