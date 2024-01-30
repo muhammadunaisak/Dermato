@@ -1,9 +1,9 @@
 <br/>
 <p align="center">
   <a href="https://github.com/muhammadunaisak/Dermato">
-     ![image](https://github.com/muhammadunaisak/Dermato/assets/84447232/7fa1a330-34cb-4b3a-9895-f24a57c17798)
+
   </a>
-![image](https://github.com/muhammadunaisak/Dermato/assets/84447232/7fa1a330-34cb-4b3a-9895-f24a57c17798)
+
   <h3 align="center">Dermato</h3>
 
   <p align="center">
