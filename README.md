@@ -50,7 +50,8 @@ Overall, the proposed skin cancer detection system using Python has the potentia
 
 ## Getting Started
 
-
+#techs Used Here
+(https://skillicons.dev/icons?i=js,html,css,python,java,bootstrap,)]
 
 
 ## Contributing
@@ -69,12 +70,7 @@ Contributions are what make the open source community such an amazing place to b
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## Authors
+## Author
 
 * **unais** - *Comp Sci Student* - [unais](https://github.com/muhammadunaisak) - **
 
-## Acknowledgements
-
-* []()
-* []()
-* []()
