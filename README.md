@@ -50,8 +50,9 @@ Overall, the proposed skin cancer detection system using Python has the potentia
 
 ## Getting Started
 
-#techs Used Here
-(https://skillicons.dev/icons?i=js,html,css,react,mongodb,expressjs,nodejs,bootstrap,git,postman,netlify,vercel,figma,)](https://skillicons.dev)
+##Techs Used Here
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,mongodb,expressjs,nodejs,bootstrap,git,postman,netlify,vercel,figma,)](https://skillicons.dev)
+
 
 
 ## Contributing
