@@ -33,13 +33,14 @@
 
 ## About The Project
 
-![Screen Shot](![image](https://github.com/muhammadunaisak/Dermato/assets/84447232/e2288d81-c609-469a-808c-10c2277bab03))
+#Screen Shot
+![image](https://github.com/muhammadunaisak/Dermato/assets/84447232/e2288d81-c609-469a-808c-10c2277bab03)
 
-                                           Skin cancer is the most common form of cancer worldwide, with over 3 million cases diagnosed annually in the United States alone. It occurs when the cells in the skin start to grow abnormally and out of control, leading to the development of tumors or lesions. The main cause of skin cancer is exposure to ultraviolet (UV) radiation from the sun or artificial sources such as tanning beds.There are several types of skin cancer, including basal cell carcinoma, squamous cell carcinoma, and melanoma. Basal cell carcinoma and squamous cell carcinoma are the most common types of skin cancer and are often treatable with early detection and intervention. However, melanoma is the most deadly form of skin cancer and can spread quickly to other parts of the body if not caught early.
-     This is an Android Application in which user can diagnose their skin and make appointment for Dermatologists   .
+                                           
 
 
-
+Skin cancer is the most common form of cancer worldwide, with over 3 million cases diagnosed annually in the United States alone. It occurs when the cells in the skin start to grow abnormally and out of control, leading to the development of tumors or lesions. The main cause of skin cancer is exposure to ultraviolet (UV) radiation from the sun or artificial sources such as tanning beds.There are several types of skin cancer, including basal cell carcinoma, squamous cell carcinoma, and melanoma. Basal cell carcinoma and squamous cell carcinoma are the most common types of skin cancer and are often treatable with early detection and intervention. However, melanoma is the most deadly form of skin cancer and can spread quickly to other parts of the body if not caught early.
+     ##This is an Android Application in which user can diagnose their skin and make appointment for Dermatologists
 skin cancer detection system using Python and  appointment system to get skin specialists. The system will be designed to analyze images of skin lesions uploaded by users and provide a risk assessment of the likelihood that the lesion is benign or malignant.The application here uses machine learning algorithms to analyze the images and classify them based on features such as color, shape, and texture. The system will be trained on a large dataset of images of skin lesions to improve the accuracy of the classification.
 
 Users will be able to upload images of their skin lesions through android application. The system will provide a risk assessment based on the analysis of the uploaded image and recommend follow-up care, such as scheduling an appointment with a dermatologist and able to chat with doctor.The application will also include a database to store information about the disease.
